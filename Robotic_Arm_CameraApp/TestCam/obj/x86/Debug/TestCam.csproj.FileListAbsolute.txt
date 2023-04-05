@@ -1,0 +1,209 @@
+c:\users\mahmoud.mahmoud-pc\documents\visual studio 2010\Projects\TestCam\TestCam\bin\Debug\TestCam.exe
+c:\users\mahmoud.mahmoud-pc\documents\visual studio 2010\Projects\TestCam\TestCam\bin\Debug\TestCam.pdb
+c:\users\mahmoud.mahmoud-pc\documents\visual studio 2010\Projects\TestCam\TestCam\bin\Debug\Emgu.CV.dll
+c:\users\mahmoud.mahmoud-pc\documents\visual studio 2010\Projects\TestCam\TestCam\bin\Debug\Emgu.CV.UI.dll
+c:\users\mahmoud.mahmoud-pc\documents\visual studio 2010\Projects\TestCam\TestCam\bin\Debug\Emgu.Util.dll
+c:\users\mahmoud.mahmoud-pc\documents\visual studio 2010\Projects\TestCam\TestCam\bin\Debug\ZedGraph.dll
+c:\users\mahmoud.mahmoud-pc\documents\visual studio 2010\Projects\TestCam\TestCam\bin\Debug\Emgu.CV.pdb
+c:\users\mahmoud.mahmoud-pc\documents\visual studio 2010\Projects\TestCam\TestCam\bin\Debug\Emgu.CV.xml
+c:\users\mahmoud.mahmoud-pc\documents\visual studio 2010\Projects\TestCam\TestCam\bin\Debug\Emgu.CV.UI.pdb
+c:\users\mahmoud.mahmoud-pc\documents\visual studio 2010\Projects\TestCam\TestCam\bin\Debug\Emgu.CV.UI.xml
+c:\users\mahmoud.mahmoud-pc\documents\visual studio 2010\Projects\TestCam\TestCam\bin\Debug\Emgu.Util.pdb
+c:\users\mahmoud.mahmoud-pc\documents\visual studio 2010\Projects\TestCam\TestCam\bin\Debug\Emgu.Util.xml
+c:\users\mahmoud.mahmoud-pc\documents\visual studio 2010\Projects\TestCam\TestCam\bin\Debug\ZedGraph.xml
+c:\users\mahmoud.mahmoud-pc\documents\visual studio 2010\Projects\TestCam\TestCam\bin\Debug\zh-CN\Emgu.CV.UI.resources.dll
+c:\users\mahmoud.mahmoud-pc\documents\visual studio 2010\Projects\TestCam\TestCam\bin\Debug\zh-CN\ZedGraph.resources.dll
+c:\users\mahmoud.mahmoud-pc\documents\visual studio 2010\Projects\TestCam\TestCam\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\mahmoud.mahmoud-pc\documents\visual studio 2010\Projects\TestCam\TestCam\obj\x86\Debug\TestCam.Form1.resources
+c:\users\mahmoud.mahmoud-pc\documents\visual studio 2010\Projects\TestCam\TestCam\obj\x86\Debug\TestCam.Properties.Resources.resources
+c:\users\mahmoud.mahmoud-pc\documents\visual studio 2010\Projects\TestCam\TestCam\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\mahmoud.mahmoud-pc\documents\visual studio 2010\Projects\TestCam\TestCam\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\mahmoud.mahmoud-pc\documents\visual studio 2010\Projects\TestCam\TestCam\obj\x86\Debug\TestCam.exe
+c:\users\mahmoud.mahmoud-pc\documents\visual studio 2010\Projects\TestCam\TestCam\obj\x86\Debug\TestCam.pdb
+c:\users\mahmoud.mahmoud-pc\documents\visual studio 2010\Projects\TestCam\TestCam\bin\Debug\opencv_core231.dll
+c:\users\mahmoud.mahmoud-pc\documents\visual studio 2010\Projects\TestCam\TestCam\bin\Debug\opencv_highgui231.dll
+c:\users\mahmoud.mahmoud-pc\documents\visual studio 2010\Projects\TestCam\TestCam\bin\Debug\TestCam.exe.config
+c:\users\mahmoud.mahmoud-pc\documents\visual studio 2010\Projects\TestCam\TestCam\obj\x86\Debug\ResGen.read.1.tlog
+c:\users\mahmoud.mahmoud-pc\documents\visual studio 2010\Projects\TestCam\TestCam\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Lord\Desktop\TestCam\TestCam\bin\Debug\TestCam.exe.config
+C:\Users\Lord\Desktop\TestCam\TestCam\obj\x86\Debug\TestCam.exe
+C:\Users\Lord\Desktop\TestCam\TestCam\obj\x86\Debug\TestCam.pdb
+C:\Users\Lord\Desktop\TestCam\TestCam\bin\Debug\opencv_core231.dll
+C:\Users\Lord\Desktop\TestCam\TestCam\bin\Debug\opencv_highgui231.dll
+C:\Users\Lord\Desktop\TestCam\TestCam\bin\Debug\TestCam.exe
+C:\Users\Lord\Desktop\TestCam\TestCam\bin\Debug\TestCam.pdb
+C:\Users\Lord\Desktop\TestCam\TestCam\bin\Debug\Emgu.CV.dll
+C:\Users\Lord\Desktop\TestCam\TestCam\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Lord\Desktop\TestCam\TestCam\bin\Debug\Emgu.Util.dll
+C:\Users\Lord\Desktop\TestCam\TestCam\bin\Debug\ZedGraph.dll
+C:\Users\Lord\Desktop\TestCam\TestCam\bin\Debug\Emgu.CV.xml
+C:\Users\Lord\Desktop\TestCam\TestCam\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Lord\Desktop\TestCam\TestCam\bin\Debug\Emgu.Util.xml
+C:\Users\Lord\Desktop\TestCam\TestCam\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Lord\Desktop\TestCam\TestCam\obj\x86\Debug\TestCam.Form1.resources
+C:\Users\Lord\Desktop\TestCam\TestCam\obj\x86\Debug\TestCam.Properties.Resources.resources
+C:\Users\Lord\Desktop\TestCam\TestCam\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Lord\Desktop\TestCam\TestCam\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Lord\Desktop\TestCam\TestCam\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Lord\Desktop\TestCam\TestCam\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Lord\Desktop\OpenCV_001\TestCam\bin\Debug\TestCam.exe.config
+C:\Users\Lord\Desktop\OpenCV_001\TestCam\obj\x86\Debug\TestCam.exe
+C:\Users\Lord\Desktop\OpenCV_001\TestCam\obj\x86\Debug\TestCam.pdb
+C:\Users\Lord\Desktop\OpenCV_001\TestCam\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Lord\Desktop\OpenCV_001\TestCam\obj\x86\Debug\TestCam.Form1.resources
+C:\Users\Lord\Desktop\OpenCV_001\TestCam\obj\x86\Debug\TestCam.Properties.Resources.resources
+C:\Users\Lord\Desktop\OpenCV_001\TestCam\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Lord\Desktop\OpenCV_001\TestCam\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Lord\Desktop\OpenCV_001\TestCam\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Lord\Desktop\OpenCV_001\TestCam\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Lord\Desktop\OpenCV_001\TestCam\bin\Debug\opencv_core231.dll
+C:\Users\Lord\Desktop\OpenCV_001\TestCam\bin\Debug\opencv_highgui231.dll
+C:\Users\Lord\Desktop\OpenCV_001\TestCam\bin\Debug\TestCam.exe
+C:\Users\Lord\Desktop\OpenCV_001\TestCam\bin\Debug\TestCam.pdb
+C:\Users\Lord\Desktop\OpenCV_001\TestCam\bin\Debug\Emgu.CV.dll
+C:\Users\Lord\Desktop\OpenCV_001\TestCam\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Lord\Desktop\OpenCV_001\TestCam\bin\Debug\Emgu.Util.dll
+C:\Users\Lord\Desktop\OpenCV_001\TestCam\bin\Debug\ZedGraph.dll
+C:\Users\Lord\Desktop\OpenCV_001\TestCam\bin\Debug\Emgu.CV.xml
+C:\Users\Lord\Desktop\OpenCV_001\TestCam\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Lord\Desktop\OpenCV_001\TestCam\bin\Debug\Emgu.Util.xml
+C:\AAST_2012\CC501\OpenCV\OpenCV_001\TestCam\bin\Debug\TestCam.exe.config
+C:\AAST_2012\CC501\OpenCV\OpenCV_001\TestCam\obj\x86\Debug\TestCam.exe
+C:\AAST_2012\CC501\OpenCV\OpenCV_001\TestCam\obj\x86\Debug\TestCam.pdb
+C:\Users\Lord\Desktop\Rat_CAM\OpenCV_001\TestCam\bin\Debug\opencv_core231.dll
+C:\Users\Lord\Desktop\Rat_CAM\OpenCV_001\TestCam\bin\Debug\opencv_highgui231.dll
+C:\Users\Lord\Desktop\Rat_CAM\OpenCV_001\TestCam\bin\Debug\TestCam.exe.config
+C:\Users\Lord\Desktop\Rat_CAM\OpenCV_001\TestCam\bin\Debug\TestCam.exe
+C:\Users\Lord\Desktop\Rat_CAM\OpenCV_001\TestCam\bin\Debug\TestCam.pdb
+C:\Users\Lord\Desktop\Rat_CAM\OpenCV_001\TestCam\bin\Debug\ZedGraph.dll
+C:\Users\Lord\Desktop\Rat_CAM\OpenCV_001\TestCam\bin\Debug\Emgu.CV.pdb
+C:\Users\Lord\Desktop\Rat_CAM\OpenCV_001\TestCam\bin\Debug\Emgu.CV.xml
+C:\Users\Lord\Desktop\Rat_CAM\OpenCV_001\TestCam\bin\Debug\Emgu.CV.UI.pdb
+C:\Users\Lord\Desktop\Rat_CAM\OpenCV_001\TestCam\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Lord\Desktop\Rat_CAM\OpenCV_001\TestCam\bin\Debug\Emgu.Util.pdb
+C:\Users\Lord\Desktop\Rat_CAM\OpenCV_001\TestCam\bin\Debug\Emgu.Util.xml
+C:\Users\Lord\Desktop\Rat_CAM\OpenCV_001\TestCam\bin\Debug\ZedGraph.xml
+C:\Users\Lord\Desktop\Rat_CAM\OpenCV_001\TestCam\bin\Debug\zh-CN\Emgu.CV.UI.resources.dll
+C:\Users\Lord\Desktop\Rat_CAM\OpenCV_001\TestCam\bin\Debug\zh-CN\ZedGraph.resources.dll
+C:\Users\Lord\Desktop\Rat_CAM\OpenCV_001\TestCam\obj\x86\Debug\TestCam.csprojResolveAssemblyReference.cache
+C:\Users\Lord\Desktop\Rat_CAM\OpenCV_001\TestCam\obj\x86\Debug\TestCam.Form1.resources
+C:\Users\Lord\Desktop\Rat_CAM\OpenCV_001\TestCam\obj\x86\Debug\TestCam.Properties.Resources.resources
+C:\Users\Lord\Desktop\Rat_CAM\OpenCV_001\TestCam\obj\x86\Debug\TestCam.csproj.GenerateResource.Cache
+C:\Users\Lord\Desktop\Rat_CAM\OpenCV_001\TestCam\obj\x86\Debug\TestCam.exe
+C:\Users\Lord\Desktop\Rat_CAM\OpenCV_001\TestCam\obj\x86\Debug\TestCam.pdb
+D:\USKUDAR\COME320_Robotics\Project\TestCam_OpenCV\TestCam\obj\x86\Debug\TestCam.csprojResolveAssemblyReference.cache
+D:\USKUDAR\COME320_Robotics\Project\TestCam_OpenCV\TestCam\obj\x86\Debug\TestCam.Form1.resources
+D:\USKUDAR\COME320_Robotics\Project\TestCam_OpenCV\TestCam\obj\x86\Debug\TestCam.Properties.Resources.resources
+D:\USKUDAR\COME320_Robotics\Project\TestCam_OpenCV\TestCam\obj\x86\Debug\TestCam.csproj.GenerateResource.Cache
+D:\USKUDAR\COME320_Robotics\Project\TestCam_OpenCV\TestCam\obj\x86\Debug\TestCam.exe
+D:\USKUDAR\COME320_Robotics\Project\TestCam_OpenCV\TestCam\bin\Debug\opencv_core231.dll
+D:\USKUDAR\COME320_Robotics\Project\TestCam_OpenCV\TestCam\bin\Debug\opencv_highgui231.dll
+D:\USKUDAR\COME320_Robotics\Project\TestCam_OpenCV\TestCam\bin\Debug\TestCam.exe.config
+D:\USKUDAR\COME320_Robotics\Project\TestCam_OpenCV\TestCam\bin\Debug\TestCam.exe
+D:\USKUDAR\COME320_Robotics\Project\TestCam_OpenCV\TestCam\bin\Debug\TestCam.pdb
+D:\USKUDAR\COME320_Robotics\Project\TestCam_OpenCV\TestCam\obj\x86\Debug\TestCam.pdb
+D:\D\USKUDAR\COME317_Robotics\Project\TestCam_OpenCV_001\TestCam\bin\Debug\opencv_core231.dll
+D:\D\USKUDAR\COME317_Robotics\Project\TestCam_OpenCV_001\TestCam\bin\Debug\opencv_highgui231.dll
+D:\D\USKUDAR\COME317_Robotics\Project\TestCam_OpenCV_001\TestCam\bin\Debug\TestCam.exe.config
+D:\D\USKUDAR\COME317_Robotics\Project\TestCam_OpenCV_001\TestCam\bin\Debug\TestCam.exe
+D:\D\USKUDAR\COME317_Robotics\Project\TestCam_OpenCV_001\TestCam\bin\Debug\TestCam.pdb
+D:\D\USKUDAR\COME317_Robotics\Project\TestCam_OpenCV_001\TestCam\obj\x86\Debug\TestCam.csprojResolveAssemblyReference.cache
+D:\D\USKUDAR\COME317_Robotics\Project\TestCam_OpenCV_001\TestCam\obj\x86\Debug\TestCam.Form1.resources
+D:\D\USKUDAR\COME317_Robotics\Project\TestCam_OpenCV_001\TestCam\obj\x86\Debug\TestCam.Properties.Resources.resources
+D:\D\USKUDAR\COME317_Robotics\Project\TestCam_OpenCV_001\TestCam\obj\x86\Debug\TestCam.csproj.GenerateResource.Cache
+D:\D\USKUDAR\COME317_Robotics\Project\TestCam_OpenCV_001\TestCam\obj\x86\Debug\TestCam.exe
+D:\D\USKUDAR\COME317_Robotics\Project\TestCam_OpenCV_001\TestCam\obj\x86\Debug\TestCam.pdb
+C:\Users\olcar\Desktop\TestCam_OpenCV_Org\TestCam\bin\Debug\opencv_core231.dll
+C:\Users\olcar\Desktop\TestCam_OpenCV_Org\TestCam\bin\Debug\opencv_highgui231.dll
+C:\Users\olcar\Desktop\TestCam_OpenCV_Org\TestCam\bin\Debug\TestCam.exe.config
+C:\Users\olcar\Desktop\TestCam_OpenCV_Org\TestCam\bin\Debug\TestCam.exe
+C:\Users\olcar\Desktop\TestCam_OpenCV_Org\TestCam\bin\Debug\TestCam.pdb
+C:\Users\olcar\Desktop\TestCam_OpenCV_Org\TestCam\obj\x86\Debug\TestCam.csproj.AssemblyReference.cache
+C:\Users\olcar\Desktop\TestCam_OpenCV_Org\TestCam\obj\x86\Debug\TestCam.csproj.SuggestedBindingRedirects.cache
+C:\Users\olcar\Desktop\TestCam_OpenCV_Org\TestCam\obj\x86\Debug\TestCam.Form1.resources
+C:\Users\olcar\Desktop\TestCam_OpenCV_Org\TestCam\obj\x86\Debug\TestCam.Properties.Resources.resources
+C:\Users\olcar\Desktop\TestCam_OpenCV_Org\TestCam\obj\x86\Debug\TestCam.csproj.GenerateResource.cache
+C:\Users\olcar\Desktop\TestCam_OpenCV_Org\TestCam\obj\x86\Debug\TestCam.csproj.CoreCompileInputs.cache
+C:\Users\olcar\Desktop\TestCam_OpenCV_Org\TestCam\obj\x86\Debug\TestCam.csproj.CopyComplete
+C:\Users\olcar\Desktop\TestCam_OpenCV_Org\TestCam\obj\x86\Debug\TestCam.exe
+C:\Users\olcar\Desktop\TestCam_OpenCV_Org\TestCam\obj\x86\Debug\TestCam.pdb
+D:\Kodlama Çalışmaları\Intelligent Robotics\Robotic_CamApp\TestCam\bin\Debug\opencv_core231.dll
+D:\Kodlama Çalışmaları\Intelligent Robotics\Robotic_CamApp\TestCam\bin\Debug\opencv_highgui231.dll
+D:\Kodlama Çalışmaları\Intelligent Robotics\Robotic_CamApp\TestCam\bin\Debug\TestCam.exe.config
+D:\Kodlama Çalışmaları\Intelligent Robotics\Robotic_CamApp\TestCam\bin\Debug\TestCam.exe
+D:\Kodlama Çalışmaları\Intelligent Robotics\Robotic_CamApp\TestCam\bin\Debug\TestCam.pdb
+D:\Kodlama Çalışmaları\Intelligent Robotics\Robotic_CamApp\TestCam\obj\x86\Debug\TestCam.csproj.AssemblyReference.cache
+D:\Kodlama Çalışmaları\Intelligent Robotics\Robotic_CamApp\TestCam\obj\x86\Debug\TestCam.csproj.SuggestedBindingRedirects.cache
+D:\Kodlama Çalışmaları\Intelligent Robotics\Robotic_CamApp\TestCam\obj\x86\Debug\TestCam.Form1.resources
+D:\Kodlama Çalışmaları\Intelligent Robotics\Robotic_CamApp\TestCam\obj\x86\Debug\TestCam.Properties.Resources.resources
+D:\Kodlama Çalışmaları\Intelligent Robotics\Robotic_CamApp\TestCam\obj\x86\Debug\TestCam.csproj.GenerateResource.cache
+D:\Kodlama Çalışmaları\Intelligent Robotics\Robotic_CamApp\TestCam\obj\x86\Debug\TestCam.csproj.CoreCompileInputs.cache
+D:\Kodlama Çalışmaları\Intelligent Robotics\Robotic_CamApp\TestCam\obj\x86\Debug\TestCam.csproj.CopyComplete
+D:\Kodlama Çalışmaları\Intelligent Robotics\Robotic_CamApp\TestCam\obj\x86\Debug\TestCam.exe
+D:\Kodlama Çalışmaları\Intelligent Robotics\Robotic_CamApp\TestCam\obj\x86\Debug\TestCam.pdb
+C:\Users\dogan\Downloads\Robotic_CamApp\Robotic_CamApp\TestCam\bin\Debug\opencv_core231.dll
+C:\Users\dogan\Downloads\Robotic_CamApp\Robotic_CamApp\TestCam\bin\Debug\opencv_highgui231.dll
+C:\Users\dogan\Downloads\Robotic_CamApp\Robotic_CamApp\TestCam\bin\Debug\TestCam.exe.config
+C:\Users\dogan\Downloads\Robotic_CamApp\Robotic_CamApp\TestCam\bin\Debug\TestCam.exe
+C:\Users\dogan\Downloads\Robotic_CamApp\Robotic_CamApp\TestCam\bin\Debug\TestCam.pdb
+C:\Users\dogan\Downloads\Robotic_CamApp\Robotic_CamApp\TestCam\obj\x86\Debug\TestCam.csproj.AssemblyReference.cache
+C:\Users\dogan\Downloads\Robotic_CamApp\Robotic_CamApp\TestCam\obj\x86\Debug\TestCam.csproj.SuggestedBindingRedirects.cache
+C:\Users\dogan\Downloads\Robotic_CamApp\Robotic_CamApp\TestCam\obj\x86\Debug\TestCam.Form1.resources
+C:\Users\dogan\Downloads\Robotic_CamApp\Robotic_CamApp\TestCam\obj\x86\Debug\TestCam.Properties.Resources.resources
+C:\Users\dogan\Downloads\Robotic_CamApp\Robotic_CamApp\TestCam\obj\x86\Debug\TestCam.csproj.GenerateResource.cache
+C:\Users\dogan\Downloads\Robotic_CamApp\Robotic_CamApp\TestCam\obj\x86\Debug\TestCam.csproj.CoreCompileInputs.cache
+C:\Users\dogan\Downloads\Robotic_CamApp\Robotic_CamApp\TestCam\obj\x86\Debug\TestCam.csproj.CopyComplete
+C:\Users\dogan\Downloads\Robotic_CamApp\Robotic_CamApp\TestCam\obj\x86\Debug\TestCam.exe
+C:\Users\dogan\Downloads\Robotic_CamApp\Robotic_CamApp\TestCam\obj\x86\Debug\TestCam.pdb
+C:\Users\olcar\Desktop\Robotic_CamApp\Robotic_CamApp\TestCam\bin\Debug\opencv_core231.dll
+C:\Users\olcar\Desktop\Robotic_CamApp\Robotic_CamApp\TestCam\bin\Debug\opencv_highgui231.dll
+C:\Users\olcar\Desktop\Robotic_CamApp\Robotic_CamApp\TestCam\bin\Debug\TestCam.exe.config
+C:\Users\olcar\Desktop\Robotic_CamApp\Robotic_CamApp\TestCam\bin\Debug\TestCam.exe
+C:\Users\olcar\Desktop\Robotic_CamApp\Robotic_CamApp\TestCam\bin\Debug\TestCam.pdb
+C:\Users\olcar\Desktop\Robotic_CamApp\Robotic_CamApp\TestCam\obj\x86\Debug\TestCam.csproj.AssemblyReference.cache
+C:\Users\olcar\Desktop\Robotic_CamApp\Robotic_CamApp\TestCam\obj\x86\Debug\TestCam.csproj.SuggestedBindingRedirects.cache
+C:\Users\olcar\Desktop\Robotic_CamApp\Robotic_CamApp\TestCam\obj\x86\Debug\TestCam.Form1.resources
+C:\Users\olcar\Desktop\Robotic_CamApp\Robotic_CamApp\TestCam\obj\x86\Debug\TestCam.Properties.Resources.resources
+C:\Users\olcar\Desktop\Robotic_CamApp\Robotic_CamApp\TestCam\obj\x86\Debug\TestCam.csproj.GenerateResource.cache
+C:\Users\olcar\Desktop\Robotic_CamApp\Robotic_CamApp\TestCam\obj\x86\Debug\TestCam.csproj.CoreCompileInputs.cache
+C:\Users\olcar\Desktop\Robotic_CamApp\Robotic_CamApp\TestCam\obj\x86\Debug\TestCam.csproj.CopyComplete
+C:\Users\olcar\Desktop\Robotic_CamApp\Robotic_CamApp\TestCam\obj\x86\Debug\TestCam.exe
+C:\Users\olcar\Desktop\Robotic_CamApp\Robotic_CamApp\TestCam\obj\x86\Debug\TestCam.pdb
+D:\Kodlama Çalışmaları\Intelligent Robotics\Robotic_Arm_CameraApp\TestCam\bin\Debug\opencv_core231.dll
+D:\Kodlama Çalışmaları\Intelligent Robotics\Robotic_Arm_CameraApp\TestCam\bin\Debug\opencv_highgui231.dll
+D:\Kodlama Çalışmaları\Intelligent Robotics\Robotic_Arm_CameraApp\TestCam\bin\Debug\TestCam.exe.config
+D:\Kodlama Çalışmaları\Intelligent Robotics\Robotic_Arm_CameraApp\TestCam\bin\Debug\TestCam.exe
+D:\Kodlama Çalışmaları\Intelligent Robotics\Robotic_Arm_CameraApp\TestCam\bin\Debug\TestCam.pdb
+D:\Kodlama Çalışmaları\Intelligent Robotics\Robotic_Arm_CameraApp\TestCam\obj\x86\Debug\TestCam.csproj.AssemblyReference.cache
+D:\Kodlama Çalışmaları\Intelligent Robotics\Robotic_Arm_CameraApp\TestCam\obj\x86\Debug\TestCam.csproj.SuggestedBindingRedirects.cache
+D:\Kodlama Çalışmaları\Intelligent Robotics\Robotic_Arm_CameraApp\TestCam\obj\x86\Debug\TestCam.Form1.resources
+D:\Kodlama Çalışmaları\Intelligent Robotics\Robotic_Arm_CameraApp\TestCam\obj\x86\Debug\TestCam.Properties.Resources.resources
+D:\Kodlama Çalışmaları\Intelligent Robotics\Robotic_Arm_CameraApp\TestCam\obj\x86\Debug\TestCam.csproj.GenerateResource.cache
+D:\Kodlama Çalışmaları\Intelligent Robotics\Robotic_Arm_CameraApp\TestCam\obj\x86\Debug\TestCam.csproj.CoreCompileInputs.cache
+D:\Kodlama Çalışmaları\Intelligent Robotics\Robotic_Arm_CameraApp\TestCam\obj\x86\Debug\TestCam.csproj.CopyComplete
+D:\Kodlama Çalışmaları\Intelligent Robotics\Robotic_Arm_CameraApp\TestCam\obj\x86\Debug\TestCam.exe
+D:\Kodlama Çalışmaları\Intelligent Robotics\Robotic_Arm_CameraApp\TestCam\obj\x86\Debug\TestCam.pdb
+C:\Users\Senan\OneDrive\Рабочий стол\Robotic_Arm_CameraApp[2]\Robotic_Arm_CameraApp\TestCam\bin\Debug\opencv_core231.dll
+C:\Users\Senan\OneDrive\Рабочий стол\Robotic_Arm_CameraApp[2]\Robotic_Arm_CameraApp\TestCam\bin\Debug\opencv_highgui231.dll
+C:\Users\Senan\OneDrive\Рабочий стол\Robotic_Arm_CameraApp[2]\Robotic_Arm_CameraApp\TestCam\bin\Debug\TestCam.exe.config
+C:\Users\Senan\OneDrive\Рабочий стол\Robotic_Arm_CameraApp[2]\Robotic_Arm_CameraApp\TestCam\bin\Debug\TestCam.exe
+C:\Users\Senan\OneDrive\Рабочий стол\Robotic_Arm_CameraApp[2]\Robotic_Arm_CameraApp\TestCam\bin\Debug\TestCam.pdb
+C:\Users\Senan\OneDrive\Рабочий стол\Robotic_Arm_CameraApp[2]\Robotic_Arm_CameraApp\TestCam\obj\x86\Debug\TestCam.csproj.AssemblyReference.cache
+C:\Users\Senan\OneDrive\Рабочий стол\Robotic_Arm_CameraApp[2]\Robotic_Arm_CameraApp\TestCam\obj\x86\Debug\TestCam.Form1.resources
+C:\Users\Senan\OneDrive\Рабочий стол\Robotic_Arm_CameraApp[2]\Robotic_Arm_CameraApp\TestCam\obj\x86\Debug\TestCam.Properties.Resources.resources
+C:\Users\Senan\OneDrive\Рабочий стол\Robotic_Arm_CameraApp[2]\Robotic_Arm_CameraApp\TestCam\obj\x86\Debug\TestCam.csproj.GenerateResource.cache
+C:\Users\Senan\OneDrive\Рабочий стол\Robotic_Arm_CameraApp[2]\Robotic_Arm_CameraApp\TestCam\obj\x86\Debug\TestCam.csproj.CoreCompileInputs.cache
+C:\Users\Senan\OneDrive\Рабочий стол\Robotic_Arm_CameraApp[2]\Robotic_Arm_CameraApp\TestCam\obj\x86\Debug\TestCam.exe
+C:\Users\Senan\OneDrive\Рабочий стол\Robotic_Arm_CameraApp[2]\Robotic_Arm_CameraApp\TestCam\obj\x86\Debug\TestCam.pdb
+C:\Users\Senan\OneDrive\Рабочий стол\working code\Robotic_Arm_CameraApp\TestCam\bin\Debug\opencv_core231.dll
+C:\Users\Senan\OneDrive\Рабочий стол\working code\Robotic_Arm_CameraApp\TestCam\bin\Debug\opencv_highgui231.dll
+C:\Users\Senan\OneDrive\Рабочий стол\working code\Robotic_Arm_CameraApp\TestCam\bin\Debug\TestCam.exe.config
+C:\Users\Senan\OneDrive\Рабочий стол\working code\Robotic_Arm_CameraApp\TestCam\bin\Debug\TestCam.exe
+C:\Users\Senan\OneDrive\Рабочий стол\working code\Robotic_Arm_CameraApp\TestCam\bin\Debug\TestCam.pdb
+C:\Users\Senan\OneDrive\Рабочий стол\working code\Robotic_Arm_CameraApp\TestCam\obj\x86\Debug\TestCam.csproj.AssemblyReference.cache
+C:\Users\Senan\OneDrive\Рабочий стол\working code\Robotic_Arm_CameraApp\TestCam\obj\x86\Debug\TestCam.Form1.resources
+C:\Users\Senan\OneDrive\Рабочий стол\working code\Robotic_Arm_CameraApp\TestCam\obj\x86\Debug\TestCam.Properties.Resources.resources
+C:\Users\Senan\OneDrive\Рабочий стол\working code\Robotic_Arm_CameraApp\TestCam\obj\x86\Debug\TestCam.csproj.GenerateResource.cache
+C:\Users\Senan\OneDrive\Рабочий стол\working code\Robotic_Arm_CameraApp\TestCam\obj\x86\Debug\TestCam.csproj.CoreCompileInputs.cache
+C:\Users\Senan\OneDrive\Рабочий стол\working code\Robotic_Arm_CameraApp\TestCam\obj\x86\Debug\TestCam.exe
+C:\Users\Senan\OneDrive\Рабочий стол\working code\Robotic_Arm_CameraApp\TestCam\obj\x86\Debug\TestCam.pdb
